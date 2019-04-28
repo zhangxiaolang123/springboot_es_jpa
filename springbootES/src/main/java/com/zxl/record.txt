@@ -1,0 +1,1 @@
+俺安装的是elasticsearch-2.1.0版本
